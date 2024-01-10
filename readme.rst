@@ -1,3 +1,6 @@
+
+NB : Aplikasi berbasis web ini memiliki kekurangan, karena ini hanya sebagai tugas project kuliah.
+
 ###################
 What is CodeIgniter
 ###################
